@@ -8,9 +8,12 @@
 ## Part 1 (Branch then merging within your fork)
 1. First, you will make a branch named my-branch
 2. To do this, you can run, git checkout -b my-branch
-3. To check which branch you are on, you can run git status
-4. It should say on branch: my-branch
+3. To check which branch you are on, you can run git status, it should say on branch: my-branch
+4. Push this branch to GitHub using git push -u origin my-branch
 5. Then, you will make some changes to the line below.
 6. *WRITE SOMETHING HERE*
-7. Add, commit, and push those changes to GitHub
-8. Now, make a pull request on GitHub from your fork's my-branch branch, to your your fork's main branch
+7. Add, commit, and push those changes to GitHub using your terminal
+8. Now, make a pull request on GitHub from your fork's my-branch branch, to your your fork's main branch. Make sure that you are not pull requesting my copy of the repository, my username should not appear at all in the pull request
+9. Merge the pull request on GitHub (if it doesn't let you, then you pull requested my copy, instead of yours)
+10. Now, on GitHub, your main branch and you my-branch branch should look identical
+11. Congrats, you have made changes using a branch, and merged them into the main branch!
