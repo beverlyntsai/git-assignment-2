@@ -65,6 +65,7 @@ git pull
 
 4. Add a new line below: \
 WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+Pineapple in pizza is the best.
 
 5. Add, commit, and push your changes:
   - git add README.md
